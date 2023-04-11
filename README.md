@@ -2,7 +2,7 @@
 Xenon Networks DarkRP™
 
 
-The files contained within the repo are addons acquired from both [Gmod Store](https://www.gmodstore.com/) and [Steam Workshop](https://steamcommunity.com/workshop/) and as such are not owned by us. There is licenses associated with the use of some of the addons and as such are protected by copyright law; redistribution without sale of these addons could be punishable by law. 
+The files contained within the repo are addons acquired from both [Gmod Store](https://www.gmodstore.com/) and [Steam Workshop](https://steamcommunity.com/workshop/) and as such are not owned by us. There is licenses associated with the use of some of the addons and as such are protected by copyright law; redistribution without sale from a licensed vendor could be punishable by law. 
 
 If you would like to use addons from the repo, you need to accuire the liscenses from the vendor of the addon where licenses apply.
 
